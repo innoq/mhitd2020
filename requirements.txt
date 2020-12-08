@@ -1,0 +1,5 @@
+# This are the requirements for the notebooks
+# Especially useful when running the notebooks with mybinder.org
+pandas
+matplotlib
+jupyter_contrib_nbextensions
